@@ -1,0 +1,14 @@
+{
+    "description": "<p>Test Repo</p>",
+    "license": "Sone License",
+    "title": "The main title",
+    "upload_type": "software",
+    "publication_date": "2022-06-20",
+    "creators": [
+        {
+            "name": "alex4200",
+            "affiliation": "MyCompany"
+        },
+    ],
+    "access_right": "open"
+}
