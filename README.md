@@ -11,3 +11,5 @@ new version:
 some new stuff
 
 [![DOI](https://zenodo.org/badge/504052361.svg)](https://zenodo.org/badge/latestdoi/504052361)
+
+I make some changes and create a new release to get a new DOI as user "alex4200". 
