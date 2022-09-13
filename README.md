@@ -17,3 +17,7 @@ some new stuff
 I make some changes and create a new release to get a new DOI as user "alex4200". 
 [![DOI](https://zenodo.org/badge/413681930.svg)](https://zenodo.org/badge/latestdoi/413681930)
 
+----
+
+Another release (release 6) made with admin user "alextestuser001"
+
